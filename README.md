@@ -186,7 +186,7 @@ export default App;
 ```
 ## OUTPUT:
 ![image](https://github.com/Evangelin-Ruth/modernweb-ex5/assets/94219798/c00db8f6-31bd-44ee-8720-d3c9c998e423)
-![image](https://github.com/Evangelin-Ruth/modernweb-ex5/assets/94219798/161b84ba-657c-404f-8d59-a33071dbb591)
+![image](https://github.com/Evangelin-Ruth/modernweb-ex5/assets/94219798/19e69ee4-05c7-4383-a036-0388263db40a)
 ## RESULT:
 Thus, a to-do list using react framework is developed succesfully.
 
